@@ -1,0 +1,1 @@
+<ul class="nav"><li> <a href="http://localhost/test-web/index.php/upload/"> Upload </a></li> <li> <a href="http://localhost/test-web/index.php/admin/"> Dashboard </a></li> </ul>
